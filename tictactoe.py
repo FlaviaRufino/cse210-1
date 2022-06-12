@@ -1,5 +1,5 @@
 '''
-Tic-Tac-Toe
+Tic-Tac-Toe Game
 Author: Flavia Santos Bezerra
 '''
 A = 1
